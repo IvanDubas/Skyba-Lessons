@@ -1,0 +1,15 @@
+h1{
+    color: rgb(172, 172, 231);
+    font-family:  Georgia, 'Times New Roman', Times, serif;
+}
+h2{
+    color: rgb(250, 231, 120)  ;
+    font-style: oblique;
+}
+p{
+    color: rgb(2, 2, 1) ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color: rgb(252, 214, 214);
+}
